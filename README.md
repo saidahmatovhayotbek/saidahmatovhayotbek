@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @saidahmatovhayotbek
+- 👀 I’m interested in Developing
+- 🌱 I’m currently learning React js
